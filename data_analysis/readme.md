@@ -1,4 +1,4 @@
-# 🌏 A Localization Strategy: The Road to Optimize Amazon AWS Saas Sales
+# 🌏 A Localization Strategy: The Road to Optimize Amazon AWS SaaS Sales
 Amazon is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. The Amazon SaaS (Software-as-a-service) is a cloud-based software model that delivers applications to end-users through the internet.
 Based on the [Amazon AWS Saas Sales Dataset](https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales), ***what would be the recommended strategy to optimize Amazon's sales based on existing trends?***
 
