@@ -7,8 +7,8 @@ Project objectives:
 2. Explore what factors may influence sales trends the most
 3. Recommend strategies to optimize sales
 
-The .ipynb file documents the process of analyzing Amazon's data, divided into three main sections:
-1. Data Cleaning
+The [.ipynb file](https://github.com/ozarachmiadi/bootcamp/blob/main/data_analysis/capstone_data_analysis.ipynb) documents the process of analyzing Amazon's data, divided into three main sections:
+1. Data Cleaning ([Raw Data](https://github.com/ozarachmiadi/bootcamp/blob/main/data_analysis/SaaS-Sales.csv) -> [Clean Data](https://github.com/ozarachmiadi/bootcamp/blob/main/data_analysis/SaaS-data_cleaned.xlsx))
 2. Data Analysis and Visualization
 3. Conclusion and Recommendation
 
