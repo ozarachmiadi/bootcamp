@@ -7,21 +7,9 @@ Project objectives:
 2. Explore what factors may influence sales trends the most
 3. Recommend strategies to optimize sales
 
-This file documents the process of analyzing Amazon's data, divided into three main sections:
+The .ipynb file documents the process of analyzing Amazon's data, divided into three main sections:
 1. Data Cleaning
 2. Data Analysis and Visualization
 3. Conclusion and Recommendation
 
 *Note: Each section is an iterative process and goes back and forth as needed. For example, while analyzing and visualizing data, data errors may be found, which led us to revise the data cleaning section. The separation of these sections aims to organize and structure the process only.*
-
---------------
-
-**Conclusion:**
-1. The distribution of sales and profits significantly differs across products and regions, with no significant differences across industries, segments, and customers.
-2. Globally, increased discounts were associated with lower sales and quantity. However, very few countries present an opposite trend.
-3. While there are products such as Alchemy, Big OI Database, and Support that have similar trends globally, the trend of other products remains scattered.
-
-**Recommendations:**
-1. Adopt a product bundling or cross-selling strategy where promotions are based on sales trends by order location
-2. Reevaluate the discount strategy. Why is it not increasing sales? (e.g., branding, promotions, reputation)
-3. Learn from top-performing locations and conduct A/B testing to localize the strategy in another location.
